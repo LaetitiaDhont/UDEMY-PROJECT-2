@@ -99,4 +99,28 @@ body, html {
 #button {
   color: #808080;
   font-style: #000;
+
+}
+
+.middle
+{
+  background: linear-gradient(-45deg,#ec5252,#6e1a52);
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.logo {
+  height: 25px;
+  width: 25px;
+}
+
+.udemylogo {
+  height: 50px;
+  width: 85px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
 }
