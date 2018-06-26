@@ -124,7 +124,3 @@ body, html {
   display: flex;
   justify-content: space-around;
 }
-
-.login {
-  text-align: right;
-}
